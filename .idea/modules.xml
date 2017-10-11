@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DcColorTabLayout.iml" filepath="$PROJECT_DIR$/DcColorTabLayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/colortrackview/colortrackview.iml" filepath="$PROJECT_DIR$/colortrackview/colortrackview.iml" />
+    </modules>
+  </component>
+</project>
